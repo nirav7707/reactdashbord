@@ -2,3 +2,39 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+body {
+  box-sizing: border-box;
+}
+
+.navbarclass {
+  height: 80px;
+  margin: 0 10px 10px 10px;
+
+  box-shadow: 0 5px 5px 0 rgba(00, 00, 00, 0.3);
+}
+
+.mainleft {
+  height: 545px;
+  margin: 0px 10px 10px 25px;
+}
+.mainright {
+  height: 545px;
+  margin: 0px 10px 10px 53px;
+
+  box-shadow: 0 5px 5px 0 rgba(00, 00, 00, 0.3);
+}
+
+.profile {
+  height: 150px;
+  margin: 10px;
+
+  box-shadow: 0 5px 5px 0 rgba(00, 00, 00, 0.3);
+}
+
+.listcomponent {
+  height: 350px;
+  margin: 10px;
+
+  box-shadow: 0 5px 5px 0 rgba(00, 00, 00, 0.3);
+}
